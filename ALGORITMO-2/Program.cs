@@ -8,7 +8,7 @@ namespace algoritmo_2
     {
         static void Main()
         {
-            int i, impar = 0,;
+            int i, impar = 0;
 
             for (i = 0; i < 100; i++)
             {

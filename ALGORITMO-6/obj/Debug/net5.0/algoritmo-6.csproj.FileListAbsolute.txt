@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\bin\Debug\net5.0\algoritmo-6.exe
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\bin\Debug\net5.0\algoritmo-6.deps.json
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\bin\Debug\net5.0\algoritmo-6.runtimeconfig.json
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\bin\Debug\net5.0\algoritmo-6.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\bin\Debug\net5.0\algoritmo-6.dll
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\bin\Debug\net5.0\ref\algoritmo-6.dll
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\bin\Debug\net5.0\algoritmo-6.pdb
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\obj\Debug\net5.0\algoritmo-6.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\obj\Debug\net5.0\algoritmo-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\obj\Debug\net5.0\algoritmo-6.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\obj\Debug\net5.0\algoritmo-6.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\obj\Debug\net5.0\algoritmo-6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\obj\Debug\net5.0\algoritmo-6.dll
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\obj\Debug\net5.0\ref\algoritmo-6.dll
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\obj\Debug\net5.0\algoritmo-6.pdb
+C:\Users\LENOVO\Desktop\ALGORITMOS\algoritmo-6\obj\Debug\net5.0\algoritmo-6.genruntimeconfig.cache
