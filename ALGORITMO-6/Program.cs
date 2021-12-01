@@ -1,4 +1,6 @@
-﻿using System;
+﻿//determinar el area de un triangulo
+
+using System;
 
 namespace algoritmo_6
 {
@@ -6,7 +8,14 @@ namespace algoritmo_6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int bas = 0;int altura = 0;
+            Console.Write("ingrese la base: ");
+            bas = Convert.ToInt32(Console.ReadLine());
+            Console.Write("ingrese la altura: ");
+            altura = Convert.ToInt32(Console.ReadLine());
+
+            int area = bas * altura / 2;
+            Console.WriteLine(area);
         }
     }
 }
