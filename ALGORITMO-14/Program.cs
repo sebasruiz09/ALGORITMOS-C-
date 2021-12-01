@@ -1,4 +1,5 @@
-﻿using System;
+﻿//sucesion de fionacci
+using System;
 
 namespace algoritmo_14
 {
@@ -6,7 +7,26 @@ namespace algoritmo_14
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int rango = 0,p = 0,s = 1,sig = 0;
+            Console.Write("ingrese el rango de la serie: ");
+            rango = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 0; i <= rango; i++)
+            {
+                if (i <= 1)
+                {
+                    sig = i;
+                }
+                else
+                {
+                    sig = p + s;
+                    p = s;
+                    s = sig;
+                }
+                Console.Write("{0} - ",sig);
+            }
+            Console.ReadKey();
+
         }
     }
 }

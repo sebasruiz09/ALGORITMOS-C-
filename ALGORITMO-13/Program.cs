@@ -32,7 +32,8 @@ namespace algoritmo_13
                     int b = numeros[x];
                     if(a == b)
                     {
-                        Console.WriteLine("\nnumero repetido: " + a);
+                        Console.WriteLine("\n"); 
+                        Console.WriteLine("numero repetido: " + a);
                     }
                 }
             }
